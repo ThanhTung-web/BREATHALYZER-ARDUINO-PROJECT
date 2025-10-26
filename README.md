@@ -12,4 +12,4 @@ ARDUINO UNO R3
 - DS1307 RTC
 
 Video ví dụ cách hoạt động:
-
+https://youtube.com/shorts/ls4LOjvd6xc?feature=share
